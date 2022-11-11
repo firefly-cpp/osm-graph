@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/slovenia-graph-neo4j.dump
+data/pathways.json
