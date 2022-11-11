@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "knjiga"
+name = "osm-graph"
 version = "0.1.0"
 description = ""
 authors = ["alenrajsp <alen.rajsp@um.si>"]
