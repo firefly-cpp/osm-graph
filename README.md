@@ -1,4 +1,5 @@
-# osm-graph
+
+# Neo4j graph dataset of cycling paths in Slovenia
 
 Examples repository for the Neo4j graph dataset of cycling paths in Slovenia.
 
