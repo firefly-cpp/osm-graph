@@ -9,10 +9,13 @@ Data available at:
 - A. Rajšp; I. Fister Jr., “Neo4j graph dataset of cycling paths in Slovenia”, Mendeley Data, V2, Accessed: Jun. 27, 2022. [Online]. Available: https://doi.org/10.17632/zkbfvsjr5f.1
 
 
-## Examples
-Prior to using the examples the **slovenia-graph-neo4j.dump** should be imported in a locally hosted [Neo4j](https://neo4j.com/) instance and **pathways.json** should be imported in a local [MongoDB](https://www.mongodb.com/) instance.
-- export_graph.py -> Shows how to export the database in a binary file
-- shortest_route_a_b.py -> Shows how to import the binary file in a [igraph](https://igraph.org/) network analysis package and generate a sample route.
+## Contents
+This repository contains two sub projects.
+
+1. Creating your own property graph from OpenStreetMap and EU-DEM data - in *creating_your_own_property_graph* folder
+   - Shows how to create your own Neo4j based property graph of OpenStreetMap data from scratch.
+2. Examples on how to use existing graph in practice - in *examples_on_how_to_use_existing_graph* folder
+   - Shows how to use existing (exported) Neo4J property graph in practice to find a route between two destinations
 
 ## License
 
