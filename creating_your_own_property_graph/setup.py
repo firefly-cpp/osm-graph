@@ -6,8 +6,8 @@ import redis
 
 
 # Configure from here
-OVERPASS_API_URL = "http://zabojnik.informatika.uni-mb.si:1101/api/interpreter"
-OPEN_ELEVATION_API_URL = "http://zabojnik.informatika.uni-mb.si:8086/api/v1/lookup"
+OVERPASS_API_URL = "http://path-to-overpass-api:1101/api/interpreter"
+OPEN_ELEVATION_API_URL = "http://path-to-open-elevation-api:8086/api/v1/lookup"
 REDIS_DB_ADDRESS = "127.0.0.1"
 REDIS_DB_PORT = 11001
 REDIS_DB_PASSWORD = "intersectionPassword"
