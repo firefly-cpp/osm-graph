@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "geo_map_processor"
+version = "0.1.0"
+description = ""
+authors = ["alenrajsp <alen.rajsp@um.si>"]
+
+[tool.poetry.dependencies]
+python = "^3.9.0"
+overpy = "^0.6"
+redis = "^3.5.3"
+msgpack = "^1.0.2"
+u-msgpack-python = "^2.7.1"
+redisgraph = "^2.3.0"
+py2neo = "^2021.1.5"
+sport-activities-features = "^0.2.11"
+dotmap = "^1.3.26"
+pymongo = "^4.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
