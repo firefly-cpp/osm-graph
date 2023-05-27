@@ -17,6 +17,10 @@ This repository contains two sub projects.
 2. Examples on how to use existing graph in practice - in *examples_on_how_to_use_existing_graph* folder
    - Shows how to use existing (exported) Neo4J property graph in practice to find a route between two destinations
 
+## Cite dataset
+
+[https://www.sciencedirect.com/science/article/pii/S2352340923003700](https://www.sciencedirect.com/science/article/pii/S2352340923003700)
+
 ## License
 
 This package is distributed under the MIT License. This license can be found online at <http://www.opensource.org/licenses/MIT>.
