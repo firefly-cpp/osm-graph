@@ -19,7 +19,7 @@ This repository contains two sub projects.
 
 ## Cite dataset
 
-[https://www.sciencedirect.com/science/article/pii/S2352340923003700](https://www.sciencedirect.com/science/article/pii/S2352340923003700)
+Rajšp, A., & Fister, J. I. (2023). [Neo4j graph dataset of cycling paths in Slovenia](https://www.sciencedirect.com/science/article/pii/S2352340923003700). Data in Brief, 109251.
 
 ## License
 
